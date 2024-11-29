@@ -30,3 +30,5 @@ class Solution:
         re=constructMaximumBinaryTree(nums=self.result)
         return re
         
+a=list(map(int,input('enter the value').split()))
+print(a)
