@@ -1,6 +1,5 @@
 package com.example;
 
-import java.util.Arrays;
 
 public class Increasetripletsequence {
     public boolean increasingTriplet(int[] nums) {
