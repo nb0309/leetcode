@@ -1,6 +1,5 @@
 package com.example;
 
-import java.util.ArrayList;
 
 public class StringCompression {
     public int compress(char[] chars) {
